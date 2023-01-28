@@ -1,0 +1,14 @@
+boto3
+numpy
+matplotlib
+jupyter
+rasterio
+pandas
+geopandas
+pyproj
+netCDF4
+h5py
+scipy
+scikit-image
+jupyterlab
+tqdm

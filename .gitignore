@@ -1,0 +1,8 @@
+
+.env
+*.h5
+*.pyc
+data/*.*
+lst.tif
+*.tif
+*.vrt
